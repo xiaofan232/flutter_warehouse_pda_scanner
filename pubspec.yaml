@@ -1,6 +1,6 @@
 name: flutter_warehouse_pda_scanner
 version: 0.0.1
-description: a new plugin supports global acquisition of PDA barcodes.
+description: A flutter plugin supports global acquisition of PDA barcodes.You can easy to get barcode.
 homepage: https://github.com/xiaofan232/flutter_warehouse_pda_scanner
 issue_tracker: https://github.com/xiaofan232/flutter_warehouse_pda_scanner/issues
 
