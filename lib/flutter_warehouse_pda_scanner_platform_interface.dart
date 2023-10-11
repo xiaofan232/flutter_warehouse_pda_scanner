@@ -8,7 +8,8 @@ abstract class FlutterWarehousePdaScannerPlatform extends PlatformInterface {
 
   static final Object _token = Object();
 
-  static FlutterWarehousePdaScannerPlatform _instance = MethodChannelFlutterWarehousePdaScanner();
+  static FlutterWarehousePdaScannerPlatform _instance =
+      MethodChannelFlutterWarehousePdaScanner();
 
   /// The default instance of [FlutterWarehousePdaScannerPlatform] to use.
   ///
