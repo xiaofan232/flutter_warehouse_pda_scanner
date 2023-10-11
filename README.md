@@ -21,7 +21,6 @@ FlutterWarehousePdaScannerPlugin.instance.getBarcodeResp.listen((event) {
 });
 ```
 
-## Awesome dio
 ## Supported PDA Types
 -  [x] NL(新大陆)-PDA
 -  [x] UROVO(优博讯)-PDA
