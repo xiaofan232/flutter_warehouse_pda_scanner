@@ -23,10 +23,6 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
     initPlatformState();
-    // FlutterWarehousePdaScannerPlugin.instance.eventStreamSubscription
-    //     .onData((data) {
-    //   debugPrint("StreamSubscription -- onData -- $data");
-    // });
     FlutterWarehousePdaScannerPlugin.instance.getBarcodeResp.listen((event) {
       debugPrint("listen -- event -- $event");
     });
